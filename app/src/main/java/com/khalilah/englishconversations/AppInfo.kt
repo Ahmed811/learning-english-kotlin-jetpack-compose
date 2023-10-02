@@ -9,7 +9,7 @@ import android.widget.Toast
 
 object AppInfo {
 
-    val adBanner=   "ca-app-pub-4131645028499906/3506274432"
+    val adBanner=   "00000"
     val developerMail="khalilah304@gmail.com"
 
 
