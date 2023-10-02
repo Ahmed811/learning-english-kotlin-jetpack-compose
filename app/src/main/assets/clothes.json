@@ -1,0 +1,103 @@
+{
+  "type": "Shopping for Clothes",
+  "type_arabic": "التسوق لشراء الملابس",
+  "dialogue": [
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Good afternoon! How can I assist you today?",
+      "arabic": "مرحبا بك في متجرنا! كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Hi! I'm looking for a formal dress for an event.",
+      "arabic": "مرحبا! أبحث عن فستان رسمي لحدث مهم."
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Sure, we have a wide selection. What color and size are you looking for?",
+      "arabic": "بالطبع لدينا تشكيلة واسعة. أي لون ومقاس تبحثين عنه؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I prefer a navy blue dress in size medium.",
+      "arabic": "أفضل فستانًا أزرق داكن بمقاس متوسط."
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Excellent choice! Let me show you our selection.",
+      "arabic": "اختيار رائع! دعني أريك مجموعتنا."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you. I'm also looking for a pair of black heels to go with it.",
+      "arabic": "شكرا لك. أنا أبحث أيضا عن حذاء كعب عالي أسود ليتناسب معه."
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Certainly! We have a lovely collection of heels. What size do you wear?",
+      "arabic": "بالطبع! لدينا مجموعة رائعة من الكعب العالي. ما هو مقاسك؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I wear a size 7 in shoes.",
+      "arabic": "أرتدي مقاس 7 في الأحذية."
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Great! Here are some options for you to try on.",
+      "arabic": "رائع! إليك بعض الخيارات لتجربتها."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you so much. These look perfect!",
+      "arabic": "شكرا جزيلا. هذه تبدو مثالية!"
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "You're welcome! Is there anything else you'd like to look at?",
+      "arabic": "العفو! هل هناك أي شيء آخر ترغبين في مشاهدته؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I think I'm all set. How much do I owe you?",
+      "arabic": "أعتقد أنني جاهزة. كم أدين لك؟"
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Your total comes to $150 for the dress and $50 for the heels.",
+      "arabic": "مجموعك يبلغ 150 دولارا للفستان و 50 دولارا للحذاء de الكعب."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Here you go. Keep the change.",
+      "arabic": "إليك. احتفظ بالباقي."
+    },
+    {
+      "speaker": "Shop Assistant",
+      "view": "right",
+      "english": "Thank you! Enjoy your new outfit!",
+      "arabic": "شكرا لك! استمتع بزيك الجديد!"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thanks! Have a great day!",
+      "arabic": "شكرا! أتمنى لك يوما رائعا!"
+    }
+
+  ]
+}

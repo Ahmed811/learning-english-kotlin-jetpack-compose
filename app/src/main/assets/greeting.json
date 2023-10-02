@@ -1,0 +1,87 @@
+{
+  "type": "Greetings and Introductions",
+  "type_arabic": "التحيات والتعارف",
+  "dialogue": [
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "Good morning! How are you today?",
+      "arabic": "صباح الخير! كيف حالك اليوم؟"
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "Good morning! I'm doing well, thank you. How about you?",
+      "arabic": "صباح الخير! أنا بخير، شكراً لك. أما أنت؟"
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "I'm great, thanks for asking. My name is John, by the way.",
+      "arabic": "أنا بخير، شكراً لسؤالك. اسمي جون، بالمناسبة."
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "Nice to meet you, John. I'm Sarah. What brings you here?",
+      "arabic": "تشرفت بلقائك، جون. أنا سارة. ما الذي يجلبك هنا؟"
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "I'm just doing some grocery shopping for the week. How about you?",
+      "arabic": "أنا فقط أقوم بشراء بعض المواد الغذائية لهذا الأسبوع. أما أنت؟"
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "I'm here to grab a few things for a dinner party I'm hosting tonight.",
+      "arabic": "أنا هنا لألتقط بعض الأشياء لحفل عشاء سأقيمه الليلة."
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "That sounds wonderful! If you need any recommendations, feel free to ask.",
+      "arabic": "يبدو ذلك رائعًا! إذا كنت بحاجة إلى أي توصيات، فلا تتردد في الطلب."
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "Thank you, John. I might take you up on that offer!",
+      "arabic": "شكرًا لك، جون. قد أستفيد من هذا العرض!"
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "You're welcome, Sarah. Enjoy your shopping and have a great party!",
+      "arabic": "على الرحب والسعة، سارة. استمتعي بالتسوق واستمتعي بالحفل!"
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "Thank you, John. Have a fantastic day too!",
+      "arabic": "شكرًا لك، جون. أتمنى لك أيضًا يومًا رائعًا!"
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "Goodbye, Sarah. Take care!",
+      "arabic": "وداعاً، سارة. اعتني بنفسك!"
+    },
+    {
+      "speaker": "Person 2",
+      "view": "left",
+      "english": "Goodbye, John. It was nice meeting you!",
+      "arabic": "وداعاً، جون. كان من دواعي سروري لقاءك!"
+    },
+    {
+      "speaker": "Person 1",
+      "view": "right",
+      "english": "Likewise, Sarah. Have a wonderful day!",
+      "arabic": "بالمثل، سارة. أتمنى لك يوماً "
+    }
+
+    ]
+
+
+    }

@@ -1,0 +1,150 @@
+{
+  "type": "At the Movie Theater",
+  "type_arabic": "في دار السينما",
+  "dialogue": [
+    {
+      "speaker": "Ticket Counter Attendant",
+      "view": "right",
+      "english": "Good evening! How may I assist you today?",
+      "arabic": "مساء الخير! كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Hi! I'd like two tickets for the 7:00 PM showing of 'The Adventure Begins'.",
+      "arabic": "مرحبا! أرغب في تذاكر لعرض الساعة 7:00 مساءً لفيلم 'المغامرة تبدأ'."
+    },
+    {
+      "speaker": "Ticket Counter Attendant",
+      "view": "right",
+      "english": "Certainly! Would you prefer regular or VIP seating?",
+      "arabic": "بالطبع! هل تفضل المقاعد العادية أم المميزة؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Regular seats are fine, thank you.",
+      "arabic": "المقاعد العادية تكون جيدة، شكرا لك."
+    },
+    {
+      "speaker": "Ticket Counter Attendant",
+      "view": "right",
+      "english": "Alright. That will be $20. Please enjoy the movie!",
+      "arabic": "حسنا. سيكون ذلك 20 دولار. يرجى التمتع بالفيلم!"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Here's $40. Keep the change.",
+      "arabic": "إليك 40 دولار. احتفظ بالباقي."
+    },
+    {
+      "speaker": "Ticket Counter Attendant",
+      "view": "right",
+      "english": "Thank you! Enjoy the show.",
+      "arabic": "شكرا لك! استمتع بالعرض."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Is there a concession stand nearby?",
+      "arabic": "هل هناك كشك للوجبات الخفيفة بالقرب من هنا؟"
+    },
+    {
+      "speaker": "Theater Employee",
+      "view": "right",
+      "english": "Yes, it's just down the hall to your left.",
+      "arabic": "نعم، إنها مباشرة في نهاية القاعة على يسارك."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Great, thanks!",
+      "arabic": "رائع، شكرا!"
+    },
+    {
+      "speaker": "Theater Employee",
+      "view": "right",
+      "english": "You're welcome. Enjoy your snacks!",
+      "arabic": "العفو. استمتع بوجبتك!"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "We have some time before the movie starts. Want to grab some popcorn?",
+      "arabic": "لدينا بعض الوقت قبل بداية الفيلم. هل ترغب في شراء الفشار؟"
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Sure! A large popcorn to share would be perfect.",
+      "arabic": "بالتأكيد! الفشار الكبير للمشاركة سيكون مثاليا."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Sounds good. Let's get that and some drinks.",
+      "arabic": "يبدو جيدا. دعونا نحصل على ذلك وعلى بعض المشروبات."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "I'll get the drinks. What do you prefer?",
+      "arabic": "سأحصل على المشروبات. ماذا تفضل؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I'll have a cola, please.",
+      "arabic": "سأتناول كولا، من فضلك."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "One cola and one orange soda, please.",
+      "arabic": "كولا ومشروب برتقال واحد، من فضلك."
+    },
+    {
+      "speaker": "Concession Stand Attendant",
+      "view": "right",
+      "english": "Here you go! Enjoy the movie.",
+      "arabic": "إليكم ذلك! استمتعوا بالفيلم."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you. Can we get extra napkins too?",
+      "arabic": "شكرا لك. هل يمكننا الحصول على مناديل إضافية أيضا؟"
+    },
+    {
+      "speaker": "Concession Stand Attendant",
+      "view": "right",
+      "english": "Of course! Here are some extra napkins for you.",
+      "arabic": "بالطبع! إليك بعض المناديل الإضافية لكم."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Thanks a lot. Let's find our seats now.",
+      "arabic": "شكرا جزيلا. لنجد مقاعدنا الآن."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Agreed. I'm excited to see this movie.",
+      "arabic": "متفق. أنا متحمس لرؤية هذا الفيلم."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "It has received great reviews. I'm sure we'll enjoy it.",
+      "arabic": "لقد حصل على تقييمات رائعة. أنا متأكد أننا سنستمتع به."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I hope so. Let's head to the theater. The movie is about to start!",
+      "arabic": "آمل ذلك. دعونا نتجه إلى القاعة. الفيلم على وشك البداية!"
+    }
+  ]
+}

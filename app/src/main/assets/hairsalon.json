@@ -1,0 +1,153 @@
+{
+  "type": "At the Hair Salon",
+  "type_arabic": "في صالون الشعر",
+  "dialogue": [
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Good afternoon! How may I help you today?",
+      "arabic": "مساء الخير! كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Hi! I have an appointment for a haircut at 3:00 PM.",
+      "arabic": "مرحبا! لدي موعد لقص الشعر في الساعة 3:00 مساءً."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Certainly! What type of haircut are you interested in?",
+      "arabic": "بالطبع! أي نوع من قص الشعر تفضلين؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I'd like a trim and some layers, please.",
+      "arabic": "أرغب في تقليم الشعر وإضافة بعض الطبقات، من فضلك."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Got it. Would you like it styled in any particular way?",
+      "arabic": "فهمت. هل ترغبين في تصفيفه بأي طريقة معينة؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Just some loose waves, please.",
+      "arabic": "فقط بعض الأمواج الخفيفة، من فضلك."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Perfect choice! Let's get started.",
+      "arabic": "اختيار مثالي! لنبدأ."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Do you have any hair products you'd recommend for my hair type?",
+      "arabic": "هل لديكم أي منتجات للعناية بالشعر توصين بها لنوع شعري؟"
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Yes, I would suggest a hydrating shampoo and a leave-in conditioner.",
+      "arabic": "نعم، أوصي بشامبو مرطب وبلسم منشفة."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Sounds good. Please go ahead.",
+      "arabic": "يبدو جيدا. من فضلك، قدمي."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Alright. I'll begin with a gentle wash.",
+      "arabic": "حسنا. سأبدأ بغسل خفيف."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "How long have you been working at this salon?",
+      "arabic": "منذ متى تعملين في هذا الصالون؟"
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "I've been here for three years now. I love it!",
+      "arabic": "أنا هنا منذ ثلاث سنوات الآن. أنا أحبه!"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That's great to hear. You seem very experienced.",
+      "arabic": "من الرائع سماع ذلك. تبدوين ذات خبرة كبيرة."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Thank you! I do my best to keep up with the latest trends.",
+      "arabic": "شكرا لك! أبذل قصارى جهدي لمتابعة أحدث الصيحات."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I appreciate that. It's important to trust your stylist.",
+      "arabic": "أنا أقدر ذلك. من المهم أن تثقي في الصالون."
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "Absolutely. Communication is key in achieving the desired look.",
+      "arabic": "بالطبع. الاتصال هو المفتاح لتحقيق الطلة المرغوبة."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "You're absolutely right. I'm excited to see the final result!",
+      "arabic": "أنت محق تماما. أنا متحمسة لرؤية النتيجة النهائية!"
+    },
+    {
+      "speaker": "Stylist",
+      "view": "right",
+      "english": "It's going to look amazing on you. Just a little more to go!",
+      "arabic": "سيبدو رائعا عليك. فقط القليل المتبقي!"
+    },
+
+
+        {
+          "speaker": "Stylist",
+          "view": "right",
+          "english": "All done! What do you think?",
+          "arabic": "انتهينا! ما رأيك؟"
+        },
+        {
+          "speaker": "Customer",
+          "view": "left",
+          "english": "It looks fantastic! Thank you so much.",
+          "arabic": "تبدو رائعة! شكرا جزيلا."
+        },
+        {
+          "speaker": "Stylist",
+          "view": "right",
+          "english": "You're welcome! It was a pleasure working with you.",
+          "arabic": "العفو! كان من دواعي سروري العمل معك."
+        },
+        {
+          "speaker": "Customer",
+          "view": "left",
+          "english": "I'll definitely be back. Thank you again!",
+          "arabic": "سأعود بالتأكيد. شكرا لك مرة أخرى!"
+        },
+        {
+          "speaker": "Stylist",
+          "view": "right",
+          "english": "Looking forward to it. Have a great day!",
+          "arabic": "أتطلع لذلك. أتمنى لك يوما جيدا!"
+        }
+      ]
+
+}

@@ -1,0 +1,103 @@
+{
+  "type": "Talking About Hobbies",
+  "type_arabic": "الحديث عن الهوايات",
+  "dialogue": [
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Hi! What do you enjoy doing in your free time?",
+      "arabic": "مرحبا! ماذا تستمتع بفعله في وقت فراغك؟"
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "I love painting. It's so relaxing and allows me to express myself.",
+      "arabic": "أنا أحب الرسم. إنه مهدئ للأعصاب ويسمح لي بالتعبير عن نفسي."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "That's wonderful! I enjoy reading and hiking in nature.",
+      "arabic": "هذا رائع! أنا أحب القراءة والمشي في الطبيعة."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Reading is a great way to expand your knowledge. What genres do you like?",
+      "arabic": "القراءة هي وسيلة رائعة لتوسيع معرفتك. ما هي الأنواع التي تفضلها؟"
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "I enjoy fiction, especially mystery and fantasy genres.",
+      "arabic": "أنا أستمتع بالأدب الخيالي، خاصة أنواع الغموض والخيال."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Those are great choices. As for hiking, do you have a favorite trail?",
+      "arabic": "هذه خيارات رائعة. أما بالنسبة للمشي، هل لديك مسار مفضل؟"
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Yes, I love the trail that leads to the waterfall. It's so peaceful there.",
+      "arabic": "نعم، أنا أحب المسار الذي يؤدي إلى الشلال. إنها هادئة جدا هناك."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Waterfalls have a unique serenity to them. It sounds beautiful.",
+      "arabic": "الشلالات تمتلك هدوءًا فريدًا. يبدو أنها جميلة."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Absolutely. It's my go-to place when I need to clear my mind.",
+      "arabic": "بالتأكيد. إنه المكان الذي أذهب إليه عندما أحتاج إلى تصفية ذهني."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "We all need a place like that. It's important for our well-being.",
+      "arabic": "نحن جميعا بحاجة إلى مثل هذا المكان. إنه مهم لرفاهيتنا."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Exactly. So, what other hobbies do you have?",
+      "arabic": "بالضبط. إذا، ما هي هواياتك الأخرى؟"
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "I also enjoy playing the guitar and cooking new recipes.",
+      "arabic": "أستمتع أيضًا بلعب الجيتار وطهي وصفات جديدة."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "That's fantastic! You have a wide range of interests.",
+      "arabic": "هذا رائع! لديك مجموعة واسعة من الاهتمامات."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Thank you! Hobbies bring so much joy to life, don't they?",
+      "arabic": "شكرا لك! الهوايات تجلب الكثير من الفرح في الحياة، أليس كذلك؟"
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Absolutely. They add color and excitement to our everyday routines.",
+      "arabic": "بالطبع. إنها تضيف اللون والإثارة لروتيننا اليومي."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Well said. Let's cherish our hobbies and make the most of them!",
+      "arabic": "قلتها بشكل جيد. دعونا نقدر هواياتنا ونستفيد منها إلى أقصى حد!"
+    }
+
+  ]
+}

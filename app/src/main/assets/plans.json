@@ -1,0 +1,114 @@
+{
+  "type": "Making a Travel Plan",
+  "type_arabic": "وضع خطة السفر",
+  "dialogue": [
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I'm planning a trip to Paris next month.",
+      "arabic": "أنا أخطط لرحلة إلى باريس الشهر القادم."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "That sounds exciting! What's your itinerary?",
+      "arabic": "يبدو ذلك مثيرًا! ما هو جدول رحلتك؟"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I'll arrive on the 15th and stay for a week.",
+      "arabic": "سأصل في الخامس عشر وسأبقى لمدة أسبوع."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Have you booked your accommodation?",
+      "arabic": "هل حجزت الإقامة؟"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Not yet. I'm still looking for a good hotel.",
+      "arabic": "ليس بعد. لازلت أبحث عن فندق جيد."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "I can help you find some options if you'd like.",
+      "arabic": "أستطيع مساعدتك في العثور على بعض الخيارات إذا أردت."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "That would be great! I prefer something close to the city center.",
+      "arabic": "سيكون ذلك رائعا! أفضل شيئا قريبا من وسط المدينة."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "I'll send you some suggestions by email.",
+      "arabic": "سأرسل لك بعض الاقتراحات عبر البريد الإلكتروني."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thanks a lot! What about transportation within the city?",
+      "arabic": "شكرا جزيلا! ماذا عن وسائل النقل داخل المدينة؟"
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Paris has an excellent metro system. You should get a metro pass.",
+      "arabic": "باريس لديها نظام مترو ممتاز. يجب أن تحصل على بطاقة مترو."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Good advice. I'll make sure to do that.",
+      "arabic": "نصيحة جيدة. سأتأكد من فعل ذلك."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Are there any specific attractions you want to visit?",
+      "arabic": "هل هناك أماكن معينة ترغب في زيارتها؟"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I definitely want to see the Eiffel Tower and the Louvre Museum.",
+      "arabic": "أريد بالتأكيد رؤية برج إيفل ومتحف اللوفر."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "Those are must-visit places. You'll love them!",
+      "arabic": "هذه الأماكن يجب زيارتها. ستحبها بالتأكيد!"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I'm getting more excited about this trip now!",
+      "arabic": "أصبحت أثار شغفي أكثر الآن بالرحلة!"
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "It's going to be an amazing experience, for sure.",
+      "arabic": "سيكون تجربة رائعة بالتأكيد."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thanks for helping me plan this out.",
+      "arabic": "شكرا لمساعدتي في التخطيط لهذا."
+    },
+    {
+      "speaker": "Friend",
+      "view": "right",
+      "english": "You're welcome! Have a fantastic time in Paris!",
+      "arabic": "العفو! أتمنى لك وقتا رائعا في باريس!"
+    }
+  ]
+}

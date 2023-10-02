@@ -1,0 +1,156 @@
+{
+  "type": "At the Library",
+  "type_arabic": "في المكتبة",
+  "dialogue": [
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Good morning! How may I help you today?",
+      "arabic": "صباح الخير! كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Hello! I'm looking for some books on history and philosophy.",
+      "arabic": "مرحبا! أنا أبحث عن بعض الكتب حول التاريخ والفلسفة."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Sure, follow me. I'll show you the section for history books first.",
+      "arabic": "بالطبع، تابعني. سأريك القسم الخاص بكتب التاريخ أولاً."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Thank you. Do you also have books on ancient civilizations?",
+      "arabic": "شكرا لك. هل لديكم أيضا كتب عن الحضارات القديمة؟"
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Yes, we have a dedicated section for ancient civilizations. Follow me.",
+      "arabic": "نعم، لدينا قسم مخصص للحضارات القديمة. تابعني."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "That's perfect. Thank you for your assistance.",
+      "arabic": "هذا مثالي. شكرا لمساعدتك."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You're welcome! If you need any further help, feel free to ask.",
+      "arabic": "العفو! إذا كنت بحاجة إلى أي مساعدة إضافية، لا تتردد في السؤال."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Actually, I'm also interested in philosophy. Where can I find those books?",
+      "arabic": "في الواقع، أنا أيضا مهتم بالفلسفة. أين يمكنني العثور على هذه الكتب؟"
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "We have a philosophy section on the second floor. Follow me, please.",
+      "arabic": "لدينا قسم للفلسفة في الطابق الثاني. تابعني، من فضلك."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Thank you so much for your help. I really appreciate it.",
+      "arabic": "شكرا جزيلا لمساعدتك. أنا حقا أقدر ذلك."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You're very welcome! Enjoy your reading.",
+      "arabic": "أهلا وسهلا! استمتع بقراءتك."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "I will. Thank you again and have a wonderful day!",
+      "arabic": "سأفعل. شكرا لك مرة أخرى وأتمنى لك يوما رائعا!"
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You too! If you have any questions, don't hesitate to ask.",
+      "arabic": "لك أيضا! إذا كان لديك أي أسئلة، لا تتردد في السؤال."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Excuse me, I'm looking for a specific book titled 'The Art of War'.",
+      "arabic": "عذرا، أبحث عن كتاب معين بعنوان 'فن الحرب'."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Ah, 'The Art of War' by Sun Tzu. Follow me, I'll help you find it.",
+      "arabic": "أها، 'فن الحرب' للفيلسوف سون تزو. تابعني، سأساعدك في العثور عليه."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Thank you! I've heard it's a classic in military strategy.",
+      "arabic": "شكرا لك! سمعت أنها تعتبر كلاسيكية في استراتيجية الحرب."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Indeed, it is. Here it is, in the philosophy section. Enjoy your read!",
+      "arabic": "بالفعل، هو كذلك. إليك هو، في قسم الفلسفة. استمتع بقراءتك!"
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Thank you so much for your help. You've been very kind.",
+      "arabic": "شكرا جزيلا لمساعدتك. لقد كنت لطيفا للغاية."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You're welcome! If you have any more questions, feel free to ask.",
+      "arabic": "العفو! إذا كان لديك المزيد من الأسئلة، لا تتردد في السؤال."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "Actually, I'm also interested in ancient history. Can you recommend any books?",
+      "arabic": "في الواقع، أنا أيضا مهتم بالتاريخ القديم. هل يمكنك أن توصي بأي كتب؟"
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "Certainly! We have a great selection. Let me show you the section.",
+      "arabic": "بالطبع! لدينا تشكيلة رائعة. دعني أريك القسم."
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "That would be fantastic. Thank you for your help once again.",
+      "arabic": "سيكون ذلك رائعا. شكرا لمساعدتك مرة أخرى."
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You're very welcome! I'm glad I could assist you. Enjoy your visit!",
+      "arabic": "أهلا وسهلا! أنا سعيد لأنني استطعت مساعدتك. استمتع بزيارتك!"
+    },
+    {
+      "speaker": "Visitor",
+      "view": "left",
+      "english": "I certainly will. Thank you and have a wonderful day!",
+      "arabic": "بالتأكيد سأفعل. شكرا لك وأتمنى لك يوما رائعا!"
+    },
+    {
+      "speaker": "Librarian",
+      "view": "right",
+      "english": "You too! If you ever need help in the future, don't hesitate to ask.",
+      "arabic": "لك أيضا! إذا كنت بحاجة إلى مساعدة في المستقبل، لا تتردد في السؤال."
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "type": "At the Bank",
+  "type_arabic": "في البنك",
+  "dialogue": [
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Good morning. I'd like to open a new account.",
+      "arabic": "صباح الخير. أود فتح حساب جديد."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Certainly. Do you have all the required documents with you?",
+      "arabic": "بالطبع. هل لديك جميع الوثائق المطلوبة معك؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Yes, I have my ID, proof of address, and initial deposit.",
+      "arabic": "نعم، لدي بطاقتي الشخصية، وإثبات العنوان، والإيداع الأولي."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "That's great. Please fill out this application form.",
+      "arabic": "ذلك رائع. يرجى ملء نموذج الطلب هذا."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Here is the completed form. What's the next step?",
+      "arabic": "إليك النموذج المكتمل. ما هو الخطوة التالية؟"
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Thank you. I'll process your application. It will take a few minutes.",
+      "arabic": "شكرا لك. سأقوم بمعالجة طلبك. سيستغرق الأمر بضع دقائق."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Sure, take your time. Is there anything else I need to do?",
+      "arabic": "بالطبع، خذ وقتك. هل هناك شيء آخر يجب علي فعله؟"
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Not at the moment. I'll inform you once the process is complete.",
+      "arabic": "ليس في الوقت الحالي. سأخطرك عندما يتم الانتهاء من العملية."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you for your assistance. I appreciate it.",
+      "arabic": "شكرا لمساعدتك. أنا أقدر ذلك."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "You're welcome. If you have any questions, feel free to ask.",
+      "arabic": "العفو. إذا كان لديك أي أسئلة، لا تتردد في طرحها."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Hello. I'd like to inquire about a loan for a small business.",
+      "arabic": "مرحبا. أود الاستفسار عن قرض لمشروع تجاري صغير."
+    },
+    {
+      "speaker": "Loan Officer",
+      "view": "right",
+      "english": "Certainly. Could you please provide some details about your business?",
+      "arabic": "بالطبع. هل يمكنك تقديم بعض التفاصيل حول عملك؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I run a small online boutique selling handmade jewelry.",
+      "arabic": "أدير متجرًا صغيرًا عبر الإنترنت يبيع المجوهرات اليدوية."
+    },
+    {
+      "speaker": "Loan Officer",
+      "view": "right",
+      "english": "That's interesting. We can discuss the loan options available for your business.",
+      "arabic": "هذا أمر مثير للاهتمام. يمكننا مناقشة خيارات القرض المتاحة لعملك."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you. I'm looking forward to hearing more about it.",
+      "arabic": "شكرا لك. أتطلع إلى معرفة المزيد عن ذلك."
+    },
+    {
+      "speaker": "Loan Officer",
+      "view": "right",
+      "english": "You're welcome. Let's schedule a meeting for a detailed discussion.",
+      "arabic": "العفو. دعونا نحدد موعدا لمناقشة مفصلة."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That sounds good. I appreciate your help.",
+      "arabic": "يبدو أمرا جيدا. أنا أقدر مساعدتك."
+    },
+    {
+      "speaker": "Loan Officer",
+      "view": "right",
+      "english": "It's my pleasure. Looking forward to working with you.",
+      "arabic": "من دواعي سروري. أتطلع إلى العمل معك."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Good morning. I'd like to endorse this cheque.",
+      "arabic": "صباح الخير. أود أن أستمر هذا الشيك."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Of course. Could you please fill out this endorsement form?",
+      "arabic": "بالطبع. هل يمكنك ملء نموذج الاستمرار هذا من فضلك؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Sure, here's the completed form. What's the next step?",
+      "arabic": "بالطبع، إليك النموذج المكتمل. ما هو الخطوة التالية؟"
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Thank you. I'll process this for you. It will take a moment.",
+      "arabic": "شكرا لك. سأقوم بمعالجة هذا بالنسبة لك. سيستغرق الأمر لحظة."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Alright, I'll wait. Can you also tell me the current rate of exchange?",
+      "arabic": "حسنا، سأنتظر. هل يمكنك أيضا أن تخبرني بالسعر الحالي للصرف؟"
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Certainly. The current exchange rate for USD to EUR is 0.85.",
+      "arabic": "بالطبع. السعر الحالي للصرف من الدولار الأمريكي إلى اليورو هو 0.85."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you for the information. I'd like to exchange some money.",
+      "arabic": "شكرا لك على المعلومات. أود تبديل بعض المال."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Certainly. How much would you like to exchange and into which currency?",
+      "arabic": "بالطبع. كم ترغب في تبديله وإلى أي عملة؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I'd like to exchange 500 USD to EUR, please.",
+      "arabic": "أود تبديل 500 دولار أمريكي إلى اليورو، من فضلك."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "Sure. Here are your 425 Euros. Is there anything else I can assist you with?",
+      "arabic": "بالتأكيد. إليك 425 يورو. هل هناك شيء آخر يمكنني مساعدتك فيه؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "No, that's all for now. Thank you for your help.",
+      "arabic": "لا، هذا كل شيء في الوقت الحالي. شكرا لمساعدتك."
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "You're welcome. If you need any further assistance, don't hesitate to ask.",
+      "arabic": "العفو. إذا كنت بحاجة إلى أي مساعدة إضافية، لا تتردد في طلبها."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Goodbye. Have a great day!",
+      "arabic": "مع السلامة. أتمنى لك يوما رائعا!"
+    },
+    {
+      "speaker": "Bank Teller",
+      "view": "right",
+      "english": "You too! Take care.",
+      "arabic": "لك أيضا! اعتني بنفسك."
+    }
+
+  ]
+}

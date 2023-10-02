@@ -1,0 +1,151 @@
+{
+  "type": "At the Airport",
+  "type_arabic": "في المطار",
+  "dialogue": [
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Welcome to the airport. How can I help you?",
+      "arabic": "مرحبًا بك في المطار. كيف يمكنني مساعدتك؟"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I have a flight to catch. Where is the check-in counter?",
+      "arabic": "لدي رحلة للتقاطع. أين مكتب تسجيل الوصول؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "The check-in counters are straight ahead. Follow the signs.",
+      "arabic": "مكاتب تسجيل الوصول في الاتجاه القياسي. اتبع الإشارات."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thank you. Is there a baggage weight limit?",
+      "arabic": "شكرًا لك. هل هناك حد أقصى لوزن الأمتعة؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Yes, the limit is 23 kilograms per checked bag.",
+      "arabic": "نعم، الحد هو ٢٣ كيلوجرام لكل حقيبة تم فحصها."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I'll make sure my bags are within the limit. Where can I get a trolley?",
+      "arabic": "سأتأكد من أن حقائبي داخل الحد. أين يمكنني الحصول على عربة يد؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Trolleys are available near the entrance. You can use them for free.",
+      "arabic": "العربات متاحة بالقرب من المدخل. يمكنك استخدامها مجانًا."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Great, thank you. After check-in, where do I go through security?",
+      "arabic": "رائع، شكرًا لك. بعد التسجيل، أين يجب علي المرور بالتفتيش الأمني؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Security is on the right. You'll need to show your boarding pass and ID.",
+      "arabic": "التفتيش الأمني على اليمين. ستحتاج إلى عرض بطاقة الصعود والهوية."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Got it. What time does the boarding gate close?",
+      "arabic": "فهمت. متى يُغلق بوابة الصعود؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "The boarding gate closes 30 minutes before departure.",
+      "arabic": "تُغلق بوابة الصعود قبل المغادرة بـ ٣٠ دقيقة."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "I'll make sure to be there on time. Where can I find some snacks?",
+      "arabic": "سأتأكد من أن أكون هناك في الوقت المحدد. أين يمكنني أن أجد بعض الوجبات الخفيفة؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "There's a snack bar near the departure gates. You can grab something there.",
+      "arabic": "هناك مقهى خفيف الوجبات بالقرب من بوابات المغادرة. يمكنك أن تلتقط شيئا من هناك."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Perfect, thank you for your help.",
+      "arabic": "ممتاز، شكرا لمساعدتك."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Is there free Wi-Fi available in the airport?",
+      "arabic": "هل هناك واي فاي مجاني متاح في المطار؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Yes, there is complimentary Wi-Fi. You can connect to it easily.",
+      "arabic": "نعم، هناك واي فاي مجاني. يمكنك الاتصال به بسهولة."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "That's convenient. How early should I arrive for an international flight?",
+      "arabic": "هذا مريح. كم يجب أن أصل قبل رحلة دولية؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "It's recommended to arrive at least three hours before your international flight.",
+      "arabic": "يُفضل أن تصل قبل رحلتك الدولية بثلاث ساعات على الأقل."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Understood. Are there any duty-free shops in the airport?",
+      "arabic": "فهمت. هل هناك محلات بضائع معفاة من الرسوم في المطار؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Yes, there are duty-free shops in the international departures area.",
+      "arabic": "نعم، هناك محلات بضائع معفاة من الرسوم في منطقة المغادرة الدولية."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Great, I'll check them out. How do I get to the boarding gates?",
+      "arabic": "رائع، سأتحقق منها. كيف يمكنني الوصول إلى بوابات الصعود؟"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "Follow the signs for departure gates. They are clearly marked.",
+      "arabic": "اتبع الإشارات إلى بوابات المغادرة. إنها موجودة بشكل واضح."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thank you for your assistance. Have a nice day!",
+      "arabic": "شكرًا لمساعدتك. أتمنى لك يوماً سعيداً!"
+    },
+    {
+      "speaker": "Airport staff",
+      "view": "right",
+      "english": "You're welcome! Have a safe and pleasant journey!",
+      "arabic": "على الرحب والسعة! أتمنى لك رحلة آمنة وممتعة!"
+    }
+
+  ]
+}

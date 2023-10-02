@@ -1,0 +1,126 @@
+{
+  "type": "Emergencies",
+  "type_arabic": "حالات الطوارئ",
+  "dialogue": [
+    {
+      "speaker": "Caller",
+      "view": "left",
+      "english": "Help! There's a fire in my apartment building!",
+      "arabic": "النجدة! هناك حريق في مبنى شقتي!"
+    },
+    {
+      "speaker": "Operator",
+      "view": "right",
+      "english": "Please remain calm. I'm sending the fire department right away.",
+      "arabic": "يرجى البقاء هادئا. أنا سأرسل فرقة الإطفاء على الفور."
+    },
+    {
+      "speaker": "Caller",
+      "view": "left",
+      "english": "Hurry! The smoke is getting thicker!",
+      "arabic": "أسرع! الدخان يزداد كثافة!"
+    },
+    {
+      "speaker": "Operator",
+      "view": "right",
+      "english": "They're on their way. Can you safely leave the building?",
+      "arabic": "هم في طريقهم. هل يمكنك مغادرة المبنى بأمان؟"
+    },
+    {
+      "speaker": "Caller",
+      "view": "left",
+      "english": "Yes, I'm heading towards the exit now.",
+      "arabic": "نعم، أنا أتجه نحو المخرج الآن."
+    },
+    {
+      "speaker": "Operator",
+      "view": "right",
+      "english": "Good. Stay low and cover your nose and mouth with a cloth.",
+      "arabic": "جيد. ابق منخفضا واغطس أنفك وفمك بقطعة قماش."
+    },
+    {
+      "speaker": "Caller",
+      "view": "left",
+      "english": "I'm outside. The fire department is here!",
+      "arabic": "أنا خارج. فرقة الإطفاء هنا!"
+    },
+    {
+      "speaker": "Operator",
+      "view": "right",
+      "english": "Great. They will handle the situation. Stay safe.",
+      "arabic": "رائع. سيتعاملون مع الوضع. ابق آمنا."
+    },
+    {
+      "speaker": "Passerby",
+      "view": "left",
+      "english": "Excuse me, I think that person needs medical help!",
+      "arabic": "عذرا، أعتقد أن هذا الشخص يحتاج إلى مساعدة طبية!"
+    },
+    {
+      "speaker": "Bystander",
+      "view": "right",
+      "english": "Let's call an ambulance. They need immediate attention.",
+      "arabic": "لنتصل بسيارة الإسعاف. إنهم يحتاجون إلى عناية فورية."
+    },
+    {
+      "speaker": "Passerby",
+      "view": "left",
+      "english": "I hope they'll be okay. The ambulance is on its way.",
+      "arabic": "آمل أن يكونوا بخير. الإسعاف في طريقه."
+    },
+    {
+      "speaker": "Bystander",
+      "view": "right",
+      "english": "They're in good hands now. The paramedics will take care of them.",
+      "arabic": "إنهم في أيدي جيدة الآن. سيعتني الفريق الطبي بهم."
+    },
+    {
+      "speaker": "Witness",
+      "view": "left",
+      "english": "There's been a car accident! We need to call the police.",
+      "arabic": "حدث حادث سيارة! نحتاج إلى استدعاء الشرطة."
+    },
+    {
+      "speaker": "Onlooker",
+      "view": "right",
+      "english": "I'll dial 911. Stay with the injured until help arrives.",
+      "arabic": "سأتصل برقم الطوارئ. ابق مع المصابين حتى يصل الدعم."
+    },
+    {
+      "speaker": "Witness",
+      "view": "left",
+      "english": "I hope everyone is okay. This is so scary.",
+      "arabic": "آمل أن يكون الجميع بخير. هذا مخيف للغاية."
+    },
+    {
+      "speaker": "Onlooker",
+      "view": "right",
+      "english": "It is, but we're doing everything we can to help.",
+      "arabic": "نعم، لكننا نبذل كل ما في وسعنا للمساعدة."
+    },
+    {
+      "speaker": "Rescuer",
+      "view": "left",
+      "english": "I found a lost child. We need to find their parents!",
+      "arabic": "وجدت طفلا ضائعا. نحتاج إلى العثور على والديه!"
+    },
+    {
+      "speaker": "Helper",
+      "view": "right",
+      "english": "Let's notify the security and make an announcement.",
+      "arabic": "لنبلغ الأمن ونعلن ذلك."
+    },
+    {
+      "speaker": "Rescuer",
+      "view": "left",
+      "english": "I hope we can reunite them with their family soon.",
+      "arabic": "آمل أن نتمكن من إعادتهم إلى عائلتهم قريبا."
+    },
+    {
+      "speaker": "Helper",
+      "view": "right",
+      "english": "We'll do our best. The child is in good hands now.",
+      "arabic": "سنبذل قصارى جهدنا. الطفل الآن في أيدي أمينة."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "type": "At the Gym",
+  "type_arabic": "في صالة الألعاب الرياضية",
+  "dialogue": [
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Good morning! Welcome to our gym. How can I assist you today?",
+      "arabic": "صباح الخير! مرحبا بك في صالتنا الرياضية. كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Hello! I'm interested in getting a membership.",
+      "arabic": "مرحبا! أنا مهتم بالحصول على عضوية."
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Great! We have different membership options available. Would you like a tour first?",
+      "arabic": "رائع! لدينا خيارات عضوية مختلفة. هل ترغب في جولة أولاً؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Yes, that would be wonderful. Thank you!",
+      "arabic": "نعم، سيكون ذلك رائعا. شكرا لك!"
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Follow me. Let me show you around our facilities.",
+      "arabic": "تابعني. دعني أريك حول مرافقنا."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "This gym looks amazing. What are the operating hours?",
+      "arabic": "تبدو هذه الصالة الرياضية رائعة. ما هي ساعات العمل؟"
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Thank you! We're open from 6 AM to 10 PM every day.",
+      "arabic": "شكرا لك! نحن مفتوحون من الساعة 6 صباحًا حتى الساعة 10 مساءً كل يوم."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That works perfectly for me. Can I try out the gym for a day before deciding?",
+      "arabic": "هذا يعمل بشكل مثالي بالنسبة لي. هل يمكنني تجربة الصالة ليوم واحد قبل اتخاذ القرار؟"
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Certainly! We offer a one-day trial pass for new members.",
+      "arabic": "بالتأكيد! نحن نقدم تذكرة تجربة ليوم واحد للأعضاء الجدد."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That's perfect. I'll take the trial pass, please.",
+      "arabic": "هذا مثالي. سأأخذ تذكرة التجربة، من فضلك."
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "Certainly! Here is your trial pass. Enjoy your workout!",
+      "arabic": "بالطبع! إليك تذكرتك للتجربة. استمتع بتمرينك!"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you so much. I'm looking forward to it!",
+      "arabic": "شكرا جزيلا. أنا متحمس لذلك!"
+    },
+    {
+      "speaker": "Gym Trainer",
+      "view": "right",
+      "english": "You're welcome! If you have any questions, feel free to ask.",
+      "arabic": "العفو! إذا كان لديك أي أسئلة، لا تتردد في السؤال."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I will. Thank you again!",
+      "arabic": "سأفعل. شكرا لك مرة أخرى!"
+    }
+
+  ]
+}

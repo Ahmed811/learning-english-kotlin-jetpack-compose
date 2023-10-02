@@ -1,0 +1,121 @@
+{
+  "type": "At the Hospital",
+  "type_arabic": "في المستشفى",
+  "dialogue": [
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "I'm not feeling well. I need to see a doctor.",
+      "arabic": "أنا لا أشعر بتحسن. أحتاج إلى رؤية الطبيب."
+    },
+    {
+      "speaker": "Hospital Receptionist",
+      "view": "right",
+      "english": "Of course. Please fill out this form with your details.",
+      "arabic": "بالطبع. يرجى ملء هذا النموذج بتفاصيلك."
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "Here you go. What's the next step?",
+      "arabic": "إليك. ما هو الخطوة التالية؟"
+    },
+    {
+      "speaker": "Hospital Receptionist",
+      "view": "right",
+      "english": "Please have a seat in the waiting area. A nurse will call you shortly.",
+      "arabic": "يرجى الجلوس في منطقة الانتظار. ستقوم ممرضة بنداءك قريبا."
+    },
+    {
+      "speaker": "Nurse",
+      "view": "right",
+      "english": "Mr. Smith? The doctor will see you now.",
+      "arabic": "السيد سميث؟ سيقوم الطبيب برؤيتك الآن."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "Good morning. What seems to be the problem?",
+      "arabic": "صباح الخير. ما هو المشكلة؟"
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "I've been experiencing chest pain and shortness of breath.",
+      "arabic": "لقد كنت أعاني من ألم في الصدر وضيق في التنفس."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "I see. We'll run some tests to determine the cause.",
+      "arabic": "أرى. سنجري بعض الاختبارات لتحديد السبب."
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "Thank you, doctor. I'm a bit worried.",
+      "arabic": "شكرا لك، دكتور. أنا قلق قليلا."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "It's important to get a proper diagnosis. Don't worry, we're here to help.",
+      "arabic": "من المهم الحصول على تشخيص صحيح. لا تقلق، نحن هنا للمساعدة."
+    },
+    {
+      "speaker": "Nurse",
+      "view": "right",
+      "english": "We'll need to take some blood samples. It'll just be a little prick.",
+      "arabic": "سنحتاج إلى أخذ عينات من الدم. سيكون ذلك مجرد لسعة بسيطة."
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "Alright, I understand. Let's proceed.",
+      "arabic": "حسنًا، أنا أفهم. لنقم بذلك."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "Thank you for your cooperation. We'll have the results soon.",
+      "arabic": "شكرا لتعاونك. سنحصل على النتائج قريبا."
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "I appreciate your help, doctor.",
+      "arabic": "أنا أقدر مساعدتك، دكتور."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "You're welcome. We're here to ensure your well-being.",
+      "arabic": "العفو. نحن هنا لضمان رفاهيتك."
+    },
+    {
+      "speaker": "Nurse",
+      "view": "right",
+      "english": "The test results are in. Let's discuss them with the doctor.",
+      "arabic": "وصلت نتائج الاختبار. دعونا نناقشها مع الطبيب."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "It seems you have a mild infection. I'll prescribe some antibiotics.",
+      "arabic": "يبدو أنك تعاني من عدوى خفيفة. سأوصي ببعض المضادات الحيوية."
+    },
+    {
+      "speaker": "Patient",
+      "view": "left",
+      "english": "Thank you, doctor. I'll follow your advice.",
+      "arabic": "شكرا لك، دكتور. سأتبع نصيحتك."
+    },
+    {
+      "speaker": "Doctor",
+      "view": "right",
+      "english": "You're welcome. Take care and get well soon.",
+      "arabic": "العفو. اعتني بنفسك وتماثل للشفاء قريبا."
+    }
+
+  ]
+}

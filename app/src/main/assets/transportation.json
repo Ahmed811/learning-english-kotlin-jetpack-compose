@@ -1,0 +1,1506 @@
+{
+"type": "Travel and Transportation",
+"type_arabic": "السفر ووسائل النقل",
+"dialogue": [
+{
+"speaker": "Traveler",
+"view": "left",
+"english": "Excuse me, how do I get to the nearest subway station?",
+"arabic": "عذراً، كيف يمكنني الوصول إلى أقرب محطة مترو؟"
+},
+{
+"speaker": "Local",
+"view": "right",
+"english": "You can walk straight for two blocks, then turn left. The station will be on your right.",
+"arabic": "يمكنك المشي مستقيماً لمسافتين، ثم انعطف يساراً. ستجد المحطة على يمينك."
+},
+{
+"speaker": "Traveler",
+"view": "left",
+"english": "Thank you so much for the directions!",
+"arabic": "شكراً جزيلاً على الاتجاهات!"
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "Is this seat taken?",
+"arabic": "هل هذا المقعد محجوز؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, it's free. You can sit here.",
+"arabic": "لا، هو غير محجوز. يمكنك الجلوس هنا."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard flight ABC. Can I see your boarding pass, please?",
+"arabic": "مرحباً على متن الرحلة رقم ABC. هل يمكنني رؤية تذكرتك، من فضلك؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Sure, here it is.",
+"arabic": "بالطبع، إليك ذلك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train is heading to downtown. Please make sure to have a valid ticket.",
+"arabic": "هذه القطار متجهة إلى وسط المدينة. يرجى التأكد من أن لديك تذكرة صالحة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have my ticket right here.",
+"arabic": "لدي تذكرتي هنا."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Where would you like to go?",
+"arabic": "إلى أين ترغب في الذهاب؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm going to the central bus station, please.",
+"arabic": "أنا ذاهب إلى محطة الحافلات الرئيسية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "How much is a one-way ticket to the city center?",
+"arabic": "كم تكلفة تذكرة الذهاب إلى وسط المدينة؟"
+},
+{
+"speaker": "Ticket Seller",
+"view": "right",
+"english": "A one-way ticket to the city center costs $5.",
+"arabic": "تذكرة الذهاب إلى وسط المدينة تكلف 5 دولارات."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here is $10. Keep the change.",
+"arabic": "إليك 10 دولارات. احتفظ بالباقي."
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the express train to the airport?",
+"arabic": "هل هذه الرصيف الصحيح للقطار السريع إلى المطار؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, that's correct. The train will be here in 10 minutes.",
+"arabic": "نعم، هذا صحيح. سيكون القطار هنا خلال 10 دقائق."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the international terminal or domestic?",
+"arabic": "هل أنت ذاهب إلى المحطة الدولية أم الوطنية؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the international terminal, please.",
+"arabic": "أنا ذاهب إلى المحطة الدولية، من فضلك."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "May I see your passport and boarding pass, please?",
+"arabic": "هل يمكنني رؤية جواز سفرك وتذكرتك، من فضلك؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Certainly, here they are.",
+"arabic": "بالطبع، إليكهما."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the main bus terminal. Please take a seat.",
+"arabic": "هذه الحافلة تذهب إلى محطة الحافلات الرئيسية. يرجى الجلوس."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long does the journey usually take?",
+"arabic": "شكراً لك. كم يستغرق الرحلة عادة؟"
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "The express train to downtown arrives in 5 minutes. Please stand behind the yellow line.",
+"arabic": "القطار السريع إلى وسط المدينة سيصل خلال 5 دقائق. يرجى الوقوف خلف الخط الأصفر."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Got it. Thank you for the information.",
+"arabic": "فهمت. شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "This flight is non-stop to New York. Please fasten your seatbelt.",
+"arabic": "هذه الرحلة مباشرة إلى نيويورك. يرجى ربط حزام الأمان."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. I'm looking forward to a smooth flight.",
+"arabic": "شكراً لك. أتطلع إلى رحلة مريحة."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "Where can I drop you off?",
+"arabic": "أين يمكنني تركك؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "You can drop me off at the corner of 5th Street, please.",
+"arabic": "يمكنك تركي عند زاوية الشارع الخامس، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please gather your belongings.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى جمع أمتعتك."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How much is the fare to the central station?",
+"arabic": "شكراً لك. كم هو الأجرة إلى المحطة الرئيسية؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "I'm looking for the express train to downtown. Is this the right platform?",
+"arabic": "أبحث عن القطار السريع إلى وسط المدينة. هل هذا هو الرصيف الصحيح؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The express train will be arriving shortly.",
+"arabic": "نعم، هو كذلك. سيصل القطار السريع قريباً."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Where can I take you today?",
+"arabic": "إلى أين يمكنني أن أأخذك اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I need to go to the train station, please.",
+"arabic": "أحتاج أن أذهب إلى محطة القطار، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus will take you to the main bus terminal. Please find a seat.",
+"arabic": "ستقوم هذه الحافلة بأخذك إلى محطة الحافلات الرئيسية. يرجى العثور على مقعد."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long does the journey usually last?",
+"arabic": "شكراً لك. كم تستمر الرحلة عادة؟"
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "The express train to downtown will arrive shortly. Please stand clear of the doors.",
+"arabic": "سيصل القطار السريع إلى وسط المدينة قريباً. يرجى الابتعاد عن الأبواب."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Got it. Thanks for letting me know.",
+"arabic": "فهمت. شكراً لإعلامي بذلك."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "This flight is bound for Paris. Please fasten your seatbelt and prepare for takeoff.",
+"arabic": "هذه الرحلة متجهة إلى باريس. يرجى ربط حزام الأمان والاستعداد للإقلاع."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. I'm looking forward to a great trip.",
+"arabic": "شكراً لك. أتطلع إلى رحلة رائعة."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We've arrived at the destination. Where would you like to be dropped off?",
+"arabic": "لقد وصلنا إلى الوجهة. أين ترغب في أن أتركك؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "You can drop me off at the corner of Maple Street, please.",
+"arabic": "يمكنك تركي عند زاوية شارع ميبل، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please make sure to take all your belongings.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التأكد من أخذ جميع أمتعتك."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How much is the fare to the central station?",
+"arabic": "شكراً لك. كم هو الأجرة إلى المحطة الرئيسية؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك. سيصل القطار إلى شيكاغو خلال 15 دقيقة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Perfect! Thank you for the information.",
+"arabic": "ممتاز! شكراً لك على المعلومات."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Welcome aboard. How many bags are you checking in today?",
+"arabic": "مرحباً على متن الرحلة. كم حقيبة ترغب في تسجيلها اليوم؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I have two checked bags and one carry-on.",
+"arabic": "لدي حقيبتان تم تسجيلهما وحقيبة يد واحدة."
+},
+{
+"speaker": "Taxi Driver",
+"view": "right",
+"english": "Are you going to the hotel or the convention center?",
+"arabic": "هل أنت ذاهب إلى الفندق أم مركز المؤتمرات؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'm heading to the hotel, please.",
+"arabic": "أنا ذاهب إلى الفندق، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "This bus goes to the airport. Please have your tickets ready.",
+"arabic": "هذه الحافلة تذهب إلى المطار. يرجى أن تكون تذاكرك جاهزة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Here's my ticket. Thank you.",
+"arabic": "إليك تذكرتي. شكراً لك."
+},
+{
+"speaker": "Train Conductor",
+"view": "right",
+"english": "This train goes directly to the central station. Please mind the gap.",
+"arabic": "هذا القطار يذهب مباشرة إلى المحطة الرئيسية. يرجى أن تنتبه إلى الفجوة."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Understood. Thank you for the reminder.",
+"arabic": "تمام. شكراً لك على التذكير."
+},
+{
+"speaker": "Flight Attendant",
+"view": "right",
+"english": "Is there anything else I can assist you with?",
+"arabic": "هل هناك أي شيء آخر يمكنني مساعدتك به؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "No, thank you. I'm all set.",
+"arabic": "لا، شكراً لك. كل شيء على ما يرام."
+},
+{
+"speaker": "Driver",
+"view": "right",
+"english": "We're approaching the station. Where would you like to get off?",
+"arabic": "نحن نقترب من المحطة. أين ترغب في النزول؟"
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "I'll get off at the next stop, please.",
+"arabic": "سأنزل في المحطة التالية، من فضلك."
+},
+{
+"speaker": "Bus Driver",
+"view": "right",
+"english": "The next stop is the central bus station. Please prepare to disembark.",
+"arabic": "المحطة التالية هي محطة الحافلات الرئيسية. يرجى التحضير للنزول."
+},
+{
+"speaker": "Passenger",
+"view": "left",
+"english": "Thank you. How long will it take to get there?",
+"arabic": "شكراً لك. كم سيستغرق الوصول إلى هناك؟"
+},
+{
+"speaker": "Train Passenger",
+"view": "left",
+"english": "Is this the right platform for the train to Chicago?",
+"arabic": "هل هذا الرصيف الصحيح للقطار إلى شيكاغو؟"
+},
+{
+"speaker": "Station Attendant",
+"view": "right",
+"english": "Yes, it is. The train to Chicago will be arriving in 15 minutes.",
+"arabic": "نعم، هو كذلك"
+}
+]
+}

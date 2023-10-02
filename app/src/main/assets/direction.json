@@ -1,0 +1,115 @@
+{
+  "type": "Asking for Directions",
+  "type_arabic": "طلب الاتجاهات",
+  "dialogue": [
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Excuse me, can you help me find the train station?",
+      "arabic": "عذرًا، هل يمكنك مساعدتي في العثور على محطة القطار؟"
+    },
+    {
+      "speaker": "Local Resident",
+      "view": "right",
+      "english": "Of course! Go straight, then take the second left. You'll find it on your right.",
+      "arabic": "بالطبع! اذهب مستقيما ثم انعطف يسارا في الشارع الثاني. ستجدها على يمينك."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thank you so much for your help!",
+      "arabic": "شكرا جزيلا لمساعدتك!"
+    },
+    {
+      "speaker": "Local Resident",
+      "view": "right",
+      "english": "You're welcome! Have a safe journey!",
+      "arabic": "على الرحب والسعة! أتمنى لك رحلة آمنة!"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Excuse me, where is the nearest bus stop?",
+      "arabic": "عذرًا، أين توجد أقرب محطة حافلات؟"
+    },
+    {
+      "speaker": "Passerby",
+      "view": "right",
+      "english": "Keep walking straight, and you'll see it on your left.",
+      "arabic": "استمر في المشي مستقيما، وستراها على يسارك."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thanks a lot! Is it a direct route to the city center?",
+      "arabic": "شكرا جزيلا! هل هي مسار مباشر إلى وسط المدينة؟"
+    },
+    {
+      "speaker": "Passerby",
+      "view": "right",
+      "english": "Yes, the bus goes directly to the city center.",
+      "arabic": "نعم، الحافلة تذهب مباشرة إلى وسط المدينة."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "That's perfect. Thanks for your help!",
+      "arabic": "هذا مثالي. شكرا لمساعدتك!"
+    },
+    {
+      "speaker": "Passerby",
+      "view": "right",
+      "english": "You're welcome! Have a great day!",
+      "arabic": "العفو! أتمنى لك يوما رائعا!"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Excuse me, how do I get to the museum from here?",
+      "arabic": "عذرًا، كيف يمكنني الوصول إلى المتحف من هنا؟"
+    },
+    {
+      "speaker": "Local Resident",
+      "view": "right",
+      "english": "Walk down this street, take the first right, and you'll find the museum on your left.",
+      "arabic": "امش عبر هذا الشارع، ثم انعطف أول يمين، وستجد المتحف على يسارك."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thank you so much for the clear directions!",
+      "arabic": "شكرا جزيلا للاتجاهات الواضحة!"
+    },
+    {
+      "speaker": "Local Resident",
+      "view": "right",
+      "english": "You're welcome! Enjoy your visit!",
+      "arabic": "العفو! استمتع بزيارتك!"
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Hi, can you tell me how to get to the airport, please?",
+      "arabic": "مرحبا، هل يمكنك أن تخبرني كيفية الوصول إلى المطار، من فضلك؟"
+    },
+    {
+      "speaker": "Airport Staff",
+      "view": "right",
+      "english": "Certainly! Take this street until you reach the main road, then turn left. You'll see signs for the airport.",
+      "arabic": "بالتأكيد! اسلك هذا الشارع حتى تصل إلى الشارع الرئيسي، ثم انعطف يسارا. سترى إشارات تؤدي إلى المطار."
+    },
+    {
+      "speaker": "Traveler",
+      "view": "left",
+      "english": "Thanks a million! I appreciate your help.",
+      "arabic": "شكرا جزيلا! أنا أقدر مساعدتك."
+    },
+    {
+      "speaker": "Airport Staff",
+      "view": "right",
+      "english": "You're very welcome! Have a safe trip!",
+      "arabic": "أنت مرحب بك دائما! أتمنى لك رحلة آمنة!"
+    }
+
+  ]
+}

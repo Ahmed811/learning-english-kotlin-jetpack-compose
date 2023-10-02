@@ -1,0 +1,330 @@
+{
+  "type": "At the Restaurant",
+  "type_arabic": "في المطعم",
+  "dialogue": [
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Good evening! Welcome to our restaurant. How many are in your party?",
+      "arabic": "مساء الخير! مرحباً بك في مطعمنا. كم عدد أفراد طاولتك؟"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "Good evening! There are four of us, please.",
+      "arabic": "مساء الخير! نحن أربعة، من فضلك."
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Excellent! Right this way. Here are your menus. Please have a seat.",
+      "arabic": "ممتاز! تابعني. إليكم القائمة. من فضلك اجلسوا."
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "Thank you!",
+      "arabic": "شكرًا لك!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "I'm excited!",
+      "arabic": "أنا متحمس!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "Let's see what they have on the menu. What are you in the mood for?",
+      "arabic": "لنرى ماذا لديهم في القائمة. ماذا ترغبون في تناوله؟"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "I want pizza!",
+      "arabic": "أريد بيتزا!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "I like spaghetti!",
+      "arabic": "أحب المعكرونة!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "Great choices! And for you, honey?",
+      "arabic": "اختيارات رائعة! وبالنسبة لكِ حبيبتي؟"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I'll have a cheeseburger, please!",
+      "arabic": "سأأخذ شيز برجر، من فضلك!"
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Thank you for your orders. I'll be back shortly with your drinks.",
+      "arabic": "شكراً لطلباتكم. سأعود قريباً بمشروباتكم."
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "Can I have a cola, please?",
+      "arabic": "هل يمكنني الحصول على كولا، من فضلك؟"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "I'd like a lemonade, please!",
+      "arabic": "أود ليموناض، من فضلك!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I want apple juice!",
+      "arabic": "أريد عصير تفاح!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "I'll have a black coffee, please.",
+      "arabic": "سأتناول قهوة سوداء، من فضلك."
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Got it. I'll be back shortly with your drinks.",
+      "arabic": "فهمت. سأعود قريباً بمشروباتكم."
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "I can't wait to eat!",
+      "arabic": "لا أستطيع الانتظار لأتناول الطعام!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Me too!",
+      "arabic": "أنا أيضاً!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I'm hungry!",
+      "arabic": "أنا جائع!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "It won't be long now. Let's enjoy our meal!",
+      "arabic": "لن يمر وقت طويل الآن. دعونا نستمتع بوجبتنا!"
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Here are your drinks. Are you ready to order?",
+      "arabic": "إليكم مشروباتكم. هل أنتم جاهزون لتقديم الطلب؟"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "Yes, I'd like a Margherita pizza, please.",
+      "arabic": "نعم، أود بيتزا مارغريتا، من فضلك."
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "I'll have the spaghetti with marinara sauce, please.",
+      "arabic": "سأتناول المعكرونة بصلصة المارينارا، من فضلك."
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I want a cheeseburger with fries, please!",
+      "arabic": "أريد شيز برجر مع بطاطس مقلية، من فضلك!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "I'd like the grilled salmon, please.",
+      "arabic": "أرغب في السمك السلمون المشوي، من فضلك."
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Thank you for your orders. I'll bring them to you shortly.",
+      "arabic": "شكرًا لطلباتكم. سأحضرها لكم قريباً."
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "I hope it tastes as good as it smells!",
+      "arabic": "آمل أن يكون الطعم جيدًا مثل الرائحة!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Me too! I love spaghetti!",
+      "arabic": "أنا أيضاً! أنا أحب المعكرونة!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "And I'm really looking forward to this grilled salmon.",
+      "arabic": "وأنا أتطلع حقًا إلى هذا السمك السلمون المشوي."
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Here are your dishes. Enjoy your meal!",
+      "arabic": "إليكم أطباقكم. استمتعوا بوجبتكم!"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "It looks delicious!",
+      "arabic": "يبدو لذيذاً!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Yummy!",
+      "arabic": "لذيذ!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I can't wait to bite into this burger!",
+      "arabic": "لا أستطيع الانتظار لدغة هذا البرجر!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "Bon appétit, everyone!",
+      "arabic": "بالهناء والعافية، الجميع!"
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Is everything to your satisfaction?",
+      "arabic": "هل كل شيء يرضيكم؟"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "Yes, it's delicious! Thank you!",
+      "arabic": "نعم، إنه لذيذ! شكراً لك!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "It's amazing!",
+      "arabic": "إنه رائع!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I love it!",
+      "arabic": "أنا أحبه!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "The salmon is cooked perfectly. Thank you!",
+      "arabic": "السلمون مطهو بشكل مثالي. شكراً لك!"
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "You're very welcome! Would anyone like dessert?",
+      "arabic": "أنتم مرحبون جدًا! هل أحد يرغب في الحلوى؟"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "I want chocolate cake!",
+      "arabic": "أريد كعكة الشوكولاتة!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Can I have an ice cream, please?",
+      "arabic": "هل يمكنني الحصول على آيس كريم، من فضلك؟"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "I'd like a fruit salad, please!",
+      "arabic": "أرغب في سلطة فواكه، من فضلك!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "I'll have a cup of coffee, please. And the check, when you're ready.",
+      "arabic": "سأتناول فنجان قهوة، من فضلك. والفاتورة عندما تكون جاهزة."
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "Of course! I'll bring your desserts and the check right away.",
+      "arabic": "بالطبع! سأحضر الحلوى والفاتورة على الفور."
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "I can't wait for dessert!",
+      "arabic": "لا أستطيع الانتظار لتناول الحلوى!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Me neither!",
+      "arabic": "أنا أيضاً!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "Fruit salad is my favorite!",
+      "arabic": "سلطة الفواكه هي المفضلة لدي!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "It's been a wonderful dinner. Thank you for your great service!",
+      "arabic": "كانت وجبة عشاء رائعة. شكراً لخدمتكم الرائعة!"
+    },
+    {
+      "speaker": "Waiter",
+      "view": "right",
+      "english": "You're very welcome! We're glad you enjoyed it. Have a fantastic evening!",
+      "arabic": "أنتم مرحبون جدًا! نحن سعداء أنكم استمتعتم. أتمنى لكم مساءً رائعًا!"
+    },
+    {
+      "speaker": "Child 1",
+      "view": "left",
+      "english": "Goodbye!",
+      "arabic": "وداعاً!"
+    },
+    {
+      "speaker": "Child 2",
+      "view": "left",
+      "english": "Goodbye!",
+      "arabic": "وداعاً!"
+    },
+    {
+      "speaker": "Child 3",
+      "view": "left",
+      "english": "Goodbye!",
+      "arabic": "وداعاً!"
+    },
+    {
+      "speaker": "Parent",
+      "view": "left",
+      "english": "Goodbye, and thank you!",
+      "arabic": "وداعاً، وشكراً لك!"
+    }
+  ]
+}

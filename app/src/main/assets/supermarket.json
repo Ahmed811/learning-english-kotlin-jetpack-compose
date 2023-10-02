@@ -1,0 +1,121 @@
+
+{
+  "type": "At Supermarket",
+  "type_arabic": "داخل السوبر ماركت",
+  "dialogue": [
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Good morning! How can I help you today?",
+      "arabic": "صباح الخير! كيف يمكنني مساعدتك اليوم؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Good morning! I'm here to do some grocery shopping for the week.",
+      "arabic": "صباح الخير! أنا هنا لشراء بعض المواد الغذائية لهذا الأسبوع."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "That's wonderful! We have a wide range of products. Are you looking for anything specific?",
+      "arabic": "ذلك رائع! لدينا مجموعة واسعة من المنتجات. هل تبحث عن شيء معين؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Yes, I need some fresh fruits and vegetables, as well as some dairy products.",
+      "arabic": "نعم، أحتاج إلى بعض الفواكه والخضروات الطازجة، وكذلك بعض منتجات الألبان."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "You're in the right place! Let's start with the fruits and vegetables section. Follow me.",
+      "arabic": "أنت في المكان الصحيح! دعونا نبدأ بقسم الفواكه والخضروات. تابعني."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you! I'm particularly interested in organic produce. Do you have an organic section?",
+      "arabic": "شكرًا لك! أنا مهتم بشكل خاص بالمنتجات العضوية. هل لديكم قسم للمنتجات العضوية؟"
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Absolutely! Our organic section is right here. You'll find a variety of organic options.",
+      "arabic": "بالطبع! قسم المنتجات العضوية لدينا هو هنا. ستجد مجموعة متنوعة من الخيارات العضوية."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That's perfect! I'll take some organic apples, carrots, and lettuce, please.",
+      "arabic": "هذا ممتاز! سأأخذ بعض التفاح العضوي والجزر والخس، من فضلك."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Certainly! How many of each would you like?",
+      "arabic": "بالطبع! كم عدد كل منها ترغب في الحصول عليه؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "I'll take four apples, a bunch of carrots, and a head of lettuce, please.",
+      "arabic": "سأأخذ أربعة تفاحات، حزمة من الجزر، ورأس من الخس، من فضلك."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Got it. Now, let's head to the dairy section. You can find milk, yogurt, and cheese there.",
+      "arabic": "فهمت. الآن، دعونا نتوجه إلى قسم المنتجات الألبان. يمكنك العثور على الحليب والزبادي والجبن هناك."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you! I'll need a gallon of milk, a tub of yogurt, and a block of cheddar cheese, please.",
+      "arabic": "شكرًا لك! سأحتاج إلى جالون من الحليب، ووعاء من الزبادي، وقطعة من جبن الشيدر، من فضلك."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Certainly! Let me get those for you. Is there anything else you'd like to add?",
+      "arabic": "بالطبع! دعني أحضرها لك. هل هناك شيء آخر ترغب في إضافته؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Actually, I'll also need some pantry staples like rice, pasta, and canned beans.",
+      "arabic": "في الواقع، سأحتاج أيضًا إلى بعض مستلزمات الطهي الأساسية مثل الأرز والمعكرونة والفاصوليا المعلبة."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Great choice! You'll find those in aisle seven. Let me show you.",
+      "arabic": "اختيار رائع! ستجدها في الممر السابع. دعني أريك."
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "Thank you! I'll take a bag of basmati rice, a box of spaghetti, and three cans of black beans, please.",
+      "arabic": "شكرًا لك! سأأخذ كيسًا من الأرز البسمتي، وصندوقًا من المعكرونة السباغيتي، وثلاث علب من الفاصوليا السوداء، من فضلك."
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "Certainly! Is there anything else you'd like to add to your shopping list?",
+      "arabic": "بالطبع! هل هناك شيء آخر ترغب في إضافته إلى قائمتك للتسوق؟"
+    },
+    {
+      "speaker": "Customer",
+      "view": "left",
+      "english": "That's all for now, thank you. I really appreciate your help!",
+      "arabic": "هذا كل شيء في الوقت الحالي، شكرًا لك. أنا حقًا أقدر مساعدتك!"
+    },
+    {
+      "speaker": "Supermarket employee",
+      "view": "right",
+      "english": "You're very welcome! If you need anything else, don't hesitate to ask. Have a fantastic day!",
+      "arabic": "أنت مرحب جدًا! إذا كنت بحاجة إلى أي شيء آخر، لا تتردد في الطلب. أتمنى لك يومًا رائعًا!"
+    }
+  ]
+}

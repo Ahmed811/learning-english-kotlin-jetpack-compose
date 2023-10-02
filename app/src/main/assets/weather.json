@@ -1,0 +1,85 @@
+{
+  "type": "Talking About the Weather",
+  "type_arabic": "الحديث عن الطقس",
+  "dialogue": [
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Good morning! What a lovely day it is today!",
+      "arabic": "صباح الخير! يوم جميل اليوم!"
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Yes, the sun is shining brightly. It's perfect weather for a picnic.",
+      "arabic": "نعم، الشمس تشرق بقوة. إنها أجواء مثالية لنزهة."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Absolutely! I was thinking of going to the park later.",
+      "arabic": "بالتأكيد! كنت أفكر في الذهاب إلى الحديقة لاحقا."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "That sounds like a great plan. The forecast said it will stay sunny all day.",
+      "arabic": "يبدو ذلك خطة رائعة. النشرة الجوية قالت إنه سيبقى الطقس مشمسا طوال اليوم."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Perfect! I'll pack a picnic basket with sandwiches and fruits.",
+      "arabic": "مثالي! سأقوم بتحضير سلة نزهة مع السندويشات والفواكه."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "That sounds delicious. Don't forget to bring some cold drinks too.",
+      "arabic": "يبدو ذلك لذيذا. لا تنسى أن تحضر بعض المشروبات الباردة أيضا."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Of course! I'll bring a cooler with some refreshing beverages.",
+      "arabic": "بالطبع! سأحضر برادة مع بعض المشروبات المنعشة."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Sounds like you're all set for a fantastic day outdoors.",
+      "arabic": "يبدو أنك جاهز لقضاء يوم رائع في الهواء الطلق."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Absolutely! I can't wait to enjoy the sunshine and fresh air.",
+      "arabic": "بالتأكيد! لا أستطيع الانتظار للاستمتاع بأشعة الشمس والهواء النقي."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "It's amazing how good weather can lift one's spirits.",
+      "arabic": "من الرائع كيف يمكن للطقس الجيد أن يرفع من معنويات الإنسان."
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Indeed, it has a positive effect on our mood and overall well-being.",
+      "arabic": "بالفعل، لديها تأثير إيجابي على مزاجنا وعامل الرفاهية بشكل عام."
+    },
+    {
+      "speaker": "Person B",
+      "view": "right",
+      "english": "Let's make the most of this wonderful day!",
+      "arabic": "لنستفيد إلى أقصى حد من هذا اليوم الرائع!"
+    },
+    {
+      "speaker": "Person A",
+      "view": "left",
+      "english": "Absolutely! Here's to a fantastic day ahead!",
+      "arabic": "بالطبع! إلى يوم رائع قادم!"
+    }
+
+  ]
+}
